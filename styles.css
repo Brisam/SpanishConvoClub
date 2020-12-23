@@ -6,9 +6,11 @@ Salsa not War: Photo by Victor Garcia on Unsplash
 Group photo: Photo by Helena Lopes on Unsplash 
 */
 
-body {
+*{
+    box-sizing: border-box;
     margin: 0;
-}
+  }
+
 
 /*Navigation Styling*/
 nav {
@@ -29,6 +31,7 @@ ul li {
 
 #main-info {
     background-color: rgb(235, 209, 171);
+    margin-bottom: 0;
 }
 
 h1 {
@@ -41,6 +44,12 @@ p {
 
 #location-info {
     background-color: burlywood;
+}
+
+/*Image Styling*/
+
+img {
+    width: 50%;
 }
 
 /*Footer Styling*/
