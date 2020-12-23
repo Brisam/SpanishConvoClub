@@ -1,0 +1,45 @@
+/* PHOTO CREDITS
+Mexican Flag: Photo by Jorge Aguilar on Unsplash
+Pair Conversation: Photo by Brooke Cagle on Unsplash
+Swing Conversation: Photo by Bewakoof.com Official on Unsplash
+*/
+
+/*Navigation Styling*/
+nav {
+    background-color: bisque;
+    width: 100%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: flex-end;
+}
+
+ul li {
+    display: inline-block;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+/*Main Content Styling*/
+
+#main-info {
+    background-color: rgb(235, 209, 171);
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    font-size: 25px;
+}
+
+#location-info {
+    background-color: burlywood;
+}
+
+/*Footer Styling*/
+
+footer {
+    background-color: chocolate;
+    width: 100%;
+}
