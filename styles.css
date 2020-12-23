@@ -4,6 +4,10 @@ Pair Conversation: Photo by Brooke Cagle on Unsplash
 Swing Conversation: Photo by Bewakoof.com Official on Unsplash
 */
 
+body {
+    margin: 0;
+}
+
 /*Navigation Styling*/
 nav {
     background-color: bisque;
